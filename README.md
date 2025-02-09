@@ -9,52 +9,54 @@ Confira tudo no único canal que ensina sobre a Área de Dados de maneira gratui
 
 ### **Youtube:** https://www.youtube.com/@teomewhy
 
-(Playlist do Youtube - Introdução ao Git e Github - https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)
+(Playlist do Youtube - Introdução ao Git e GitHub - https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)
 
 ### **Twitch**: https://www.twitch.tv/teomewhy
 
-(Coleções da Twitch - Git e Github 2025 - https://www.twitch.tv/collections/Ujre2jwtHxgN0w?filter=collections)
+(Coleções da Twitch - Git e GitHub 2025 - https://www.twitch.tv/collections/Ujre2jwtHxgN0w?filter=collections)
 
+----
 
 ## Fluxo de trabalho Git local
 
-01. git checkout -b <nova-branch>
-02. cria ou atualiza arquivos
+01. git checkout -b nova_branch - Exemplo: git checkout -b secundaria   
+02. criar ou alterar arquivos
 03. git status
-05. git add *arquivos*
+05. git add nome_do_arquivo - Exemplo: git add README.md
 06. git status
-07. git commit -m "minha mensagem"
-08. git checkout main
-09. git merge nova_branch
+07. git commit -m "nova mensagem" - Exemplo: git commit -m "mudança no README"
+08. git checkout main - retornar para branch "main"
+09. git merge nova_branch - unir informações da branch "secundaria" com a "main"
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
-01. git clone <endereco do projeto>
-02. git checkout -b <nova_branch>
+
+01. git clone endereço_do_projeto - Aula "CRIANDO FORK", aos 3:22 do vídeo
+02. git checkout -b nova_branch - Exemplo: git checkout -b secundaria
 03. alterações de arquivos
 04. git status
-05. git add *arquivos*
+05. git add nome_do_arquivo - Exemplo: git add README.md
 06. git status
-07. git commit -m "nova mensagem"
-08. git push origin <nova_branch>
-09. abrir Pull request no GitHub para main
-10. excluir <nova_branch> origin
-11. git checkout main
-12. git branch -D <nova_branch>
+07. git commit -m "nova mensagem" - Exemplo: git commit -m "mudança no README"
+08. git push origin nova_branch - Exemplo: git push origin secundaria
+09. abrir Pull Request para a "main", no GitHub - Aula "CRIANDO FORK", aos 8:49 do vídeo
+10. excluir nova_branch origin - Aula "CRIANDO FORK", aos 18:20 do vídeo
+11. git checkout main - retornar para branch "main"
+12. git branch -D nova_branch - excluir branch pelo terminal - Exemplo: git branch -D secundaria
 
 ## Fluxo de trabalho GitHub <> Local (projetos open-source)
-01. Fork do projeto para seu próprio github
-02. git clone <endereco do projeto fork>
-03. git checkout -b <nova_branch>
+01. Fork do projeto para seu próprio GitHub
+02. git clone endereco_do_projeto_fork - Exemplo: Aula "CRIANDO FORK", aos 3:22 do vídeo
+03. git checkout -b nova_branch - Exemplo: git checkout -b secundaria
 04. alterações de arquivos
 05. git status
-06. git add *arquivos*
+06. git add nome_do_arquivo - Exemplo: git add README.md
 07. git status
-08. git commit -m "nova mensagem"
-09. git push origin <nova_branch>
-10. abrir Pull request no GitHub da branch fork para a main do projeto original
-11. excluir <nova_branch> origin
-12. git checkout main
-13. git branch -D <nova_branch>
+08. git commit -m "nova mensagem" - Exemplo: git commit -m "mudança no README"
+09. git push origin nova_branch - Exemplo: git push origin secundaria
+10. abrir Pull Request da sua branch fork para a "main" do projeto original, no GitHub - Aula "CRIANDO FORK", aos 8:40 do vídeo
+11. excluir nova_branch origin - Aula "CRIANDO FORK", aos 18:20 do vídeo
+12. git checkout main - retornar para branch "main"
+13. git branch -D nova_branch - excluir branch pelo terminal - Exemplo: git branch -D secundaria
 
 ----
 
@@ -63,7 +65,7 @@ Pessoas participantes:
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
-- Mateus Dantasa
 - Magno Emanuel
+- Mateus Dantasa
 - Tales
 - Téo Calvo
