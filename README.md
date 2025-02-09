@@ -1,10 +1,20 @@
-# Curso TMW Git & GitHub 2025
+# Curso Git & GitHub 2025 - Teo Me Why
 
-Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
+Um curso para iniciantes em **Git** e **GithHub**, onde vocês podem aprender versionamento de código e repositórios remotos com GitHub,
+inclusive **GitFlow** e **Visual Studio Code** ao final do curso.
 
-Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
+Confira tudo no único canal que ensina sobre a Área de Dados de maneira gratuita:
 
-Confira tudo o que temos no nosso YouTube. É gratis!
+## Teo Me Why
+
+### **Youtube:** https://www.youtube.com/@teomewhy
+
+(Playlist do Youtube - Introdução ao Git e Github - https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)
+
+### **Twitch**: https://www.twitch.tv/teomewhy
+
+(Coleções da Twitch - Git e Github 2025 - https://www.twitch.tv/collections/Ujre2jwtHxgN0w?filter=collections)
+
 
 ## Fluxo de trabalho Git local
 
