@@ -19,14 +19,21 @@ Confira tudo no único canal que ensina sobre a Área de Dados de maneira gratui
 
 ## Fluxo de trabalho Git local
 
-01. git checkout -b nova_branch - Exemplo: git checkout -b secundaria   
-02. criar ou alterar arquivos
-03. git status
-05. git add nome_do_arquivo - Exemplo: git add README.md
-06. git status
-07. git commit -m "nova mensagem" - Exemplo: git commit -m "mudança no README"
-08. git checkout main - retornar para branch "main"
-09. git merge nova_branch - unir informações da branch "secundaria" com a "main"
+1. git checkout -b nova_branch - Exemplo: git checkout -b secundaria  
+
+2. criar ou alterar arquivos
+
+3. git status
+
+4. git add nome_do_arquivo - Exemplo: git add README.md
+
+5. git status
+
+6. git commit -m "nova mensagem" - Exemplo: git commit -m "mudança no README"
+
+7. git checkout main - retornar para branch "main"
+
+8. git merge nova_branch - unir informações da branch "secundaria" com a "main"
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
