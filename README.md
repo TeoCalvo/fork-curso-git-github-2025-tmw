@@ -55,4 +55,5 @@ Pessoas participantes:
 - Leo Medeiros
 - Mateus Dantas
 - Tales
+- Suzana
 - Téo Calvo
