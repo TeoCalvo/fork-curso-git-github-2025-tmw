@@ -50,6 +50,7 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 Pessoas participantes:
 
+-Ayrton Rovson
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
