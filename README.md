@@ -50,6 +50,7 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 Pessoas participantes:
 
+- Bruno Ribeiro
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
