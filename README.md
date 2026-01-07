@@ -50,9 +50,4 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 Pessoas participantes:
 
-- Igor Dammous
-- Infoslack
-- Leo Medeiros
-- Mateus Dantas
-- Tales
-- Téo Calvo
+- Gabriel Paludo
