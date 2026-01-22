@@ -1,0 +1,9 @@
+Branches tem padrões como:
+
+docs: Mudanças na Documentação
+feat: Uma nova funcionalidade
+fix: A correção de um bug
+perf: Mudança de código focada em melhorar performance
+refactor: Mudança de código que não adiciona uma funcionalidade e também não corrigi um bug
+style:  Mudanças no código que não afetam seu significado(Espaço em braco, formatação. ponto e virgula, etc)
+test: Adicionar ou corrigir testes
