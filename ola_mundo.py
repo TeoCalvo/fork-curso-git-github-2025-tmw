@@ -1,0 +1,1 @@
+printo("Olá mundo")
