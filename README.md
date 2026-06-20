@@ -56,3 +56,4 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+- Vinicius Schmoller
