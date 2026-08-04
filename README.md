@@ -50,7 +50,7 @@ Confira tudo o que temos no nosso YouTube. É gratis!
 
 Pessoas participantes:
 
-- Felype 06
+- Felype06
 - Igor Dammous
 - Infoslack
 - Leo Medeiros
