@@ -56,3 +56,7 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+
+Além do nosso Youtube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
+
+[theomewhy.org](https://teomewhy.org/schedule)
